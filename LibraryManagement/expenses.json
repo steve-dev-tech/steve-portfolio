@@ -1,0 +1,14 @@
+{
+    "expenses": [
+        {
+            "title": "Enter title",
+            "amount": 5.0,
+            "quantity": 3
+        },
+        {
+            "title": "Enter title",
+            "amount": 30.0,
+            "quantity": 3
+        }
+    ]
+}

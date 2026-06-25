@@ -1,0 +1,9 @@
+{
+    "accounts": [
+        {
+            "website": "gmail",
+            "username": "steve@gmail.com",
+            "password": "123456"
+        }
+    ]
+}

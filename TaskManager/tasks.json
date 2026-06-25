@@ -1,0 +1,12 @@
+{
+    "tasks": [
+        {
+            "task": "Build Portfolio",
+            "completed": false
+        },
+        {
+            "task": "Apply For Jobs",
+            "completed": false
+        }
+    ]
+}

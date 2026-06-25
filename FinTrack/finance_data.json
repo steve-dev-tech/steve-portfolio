@@ -1,0 +1,41 @@
+{
+    "income": [
+        {
+            "amount": 1000.0,
+            "source": "Salary",
+            "date": "2026-06-03"
+        },
+        {
+            "amount": 1000.0,
+            "source": "Salary",
+            "date": "2026-06-03"
+        },
+        {
+            "amount": 1000.0,
+            "source": "Salary",
+            "date": "2026-06-03"
+        },
+        {
+            "amount": 500.0,
+            "source": "Salary",
+            "date": "2026-06-05"
+        }
+    ],
+    "expenses": [
+        {
+            "amount": 200.0,
+            "category": "Food",
+            "date": "2026-06-03"
+        },
+        {
+            "amount": 500.0,
+            "category": "Food",
+            "date": "2026-06-03"
+        },
+        {
+            "amount": 100.0,
+            "category": "Food",
+            "date": "2026-06-03"
+        }
+    ]
+}
